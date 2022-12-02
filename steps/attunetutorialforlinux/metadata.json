@@ -1,0 +1,14 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "isBlueprint": true, 
+    "key": "attunetutorialforlinux", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "executealinuxscripttutorial"
+        }
+    ], 
+    "name": "Attune Tutorial for Linux", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

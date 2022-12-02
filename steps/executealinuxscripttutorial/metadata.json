@@ -1,0 +1,10 @@
+{
+    "enabled": true, 
+    "interpreter": 1, 
+    "key": "executealinuxscripttutorial", 
+    "name": "Execute a Linux Script Tutorial", 
+    "osCredKey": "usercredentials", 
+    "serverKey": "tutorialnode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

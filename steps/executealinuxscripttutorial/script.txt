@@ -1,0 +1,11 @@
+echo "==================="
+echo "{tutorialNode.hostname} date and time:"
+
+date
+
+echo "==================="
+echo "print host details:"
+
+hostnamectl
+
+echo "==================="
