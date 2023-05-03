@@ -54,6 +54,10 @@ This Project contains the following Blueprints.
 
 
 
+### Attune Tutorial for Linux
+
+Test
+
 
 
 
@@ -62,6 +66,8 @@ This Project contains the following Blueprints.
 
 | Name | Type | Script Reference | Comment |
 | ---- | ---- | ---------------- | ------- |
+| Tutorial Node | Linux/Unix Node | `tutorialnode` | None |
+| User Credentials | Linux/Unix Credential | `usercredentials` | None |
 
 
 
